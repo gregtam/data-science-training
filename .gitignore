@@ -1,3 +1,8 @@
+.dbcred
+.dbcred_gpdb
 .DS_Store
 presentation
 *.Rproj
+.ipynb_checkpoints
+.idea
+*.pyc
